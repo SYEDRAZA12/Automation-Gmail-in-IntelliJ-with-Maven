@@ -12,6 +12,7 @@
     <bytecodeTargetLevel>
       <module name="Generic" target="1.5" />
       <module name="myAutomation" target="1.5" />
+      <module name="myAutomationSept017Mentoring-SYED-RAZA" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
